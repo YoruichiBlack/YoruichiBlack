@@ -1,4 +1,10 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil! 👋
+
+Sou uma entusiasta de segurança cibernética explorando desafios do TryHackMe!
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YoruichiBlack.png)](https://tryhackme.com/p/SEU_USUARIO_THM)
+
+
 
 <!--
 **YoruichiBlack/YoruichiBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
