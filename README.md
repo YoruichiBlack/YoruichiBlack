@@ -14,7 +14,7 @@
 ### 🥇 Minhas Conquistas
 
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YoruichiBlack.png)](https://tryhackme.com/p/SEU_USUARIO_THM)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YoruichiBlack.png)](https://tryhackme.com/p/YoruichiBlack)
 
 #
 
