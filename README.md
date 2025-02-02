@@ -7,7 +7,7 @@
 🚀 Apaixonada por Cibersegurança e Ethical Hacking  
 🔍 Explorando vulnerabilidades e segurança ofensiva  
 📚 Estudando técnicas de Red Team e Pentesting  
-🎯 Objetivo: Contribuir para a segurança digital e dificultar a vida dos crackers. 
+🎯 Objetivo: Contribuir para a segurança digital e dificultar a vida dos crackers
 
 #
 
@@ -19,6 +19,19 @@
 #
 
 ### 💻 Principais Projetos 
+- [Desafio de Phishing - DIO](https://github.com/YoruichiBlack/cibersecurity-desafio-phishing)
+- [Desafio de Ransomware - DIO](https://github.com/YoruichiBlack/cibersecurity-desafio-ransomware)
+
+
+
+##
+
+<a href="https://www.linkedin.com/in/carolina-cruz-932971181/">
+<img src="https://img.icons8.com/?size=512&id=13930&format=png" width="25" />
+</a>
+
+
+
 
 <!--
 **YoruichiBlack/YoruichiBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
