@@ -2,7 +2,7 @@
 
 🐱‍💻 Sou uma entusiasta de segurança cibernética explorando desafios de plataformas como TryHackMe e PentestLab!
 
-![Hacker Cat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdvczRzOTZqdnNuOHV1cWs3amhmMWlwcm8zbHo5OTcyaDJlaGU5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)
+![Hacker Cat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk0OXV5cXhha2NiMjVjMjdrdzdldTAwYWNtMmYzZXlhMnc2aXp6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif)
 
 🚀 Apaixonada por Cibersegurança e Ethical Hacking  
 🔍 Explorando vulnerabilidades e segurança ofensiva  
